@@ -7,6 +7,7 @@ Premade template to make building API easier
 * [Structure of API](https://github.com/Hy0tic/API-template#Structure-Of-The-API)
 
 # Get Started
+Prerequisite: Have [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) installed
 1. Open the terminal the directory where the project will be
 2. Execute these three commands
 ``` 
